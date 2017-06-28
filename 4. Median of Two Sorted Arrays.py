@@ -83,3 +83,8 @@ class Solution(object):
 
 a = Solution()
 print(a.findMedianSortedArrays([1],[2,3,4,5,6]))
+
+# helpful link:
+# http://www.cnblogs.com/yuzhangcmu/p/4138184.html
+
+
