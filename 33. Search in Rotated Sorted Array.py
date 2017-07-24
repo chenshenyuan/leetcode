@@ -12,7 +12,6 @@ def binary_search(list1, target_numb):
             l = mid_point + 1
     return -1
 
-
 class Solution(object):
     def search(self, nums, target):
         if len(nums) <= 3:
